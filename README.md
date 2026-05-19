@@ -23,16 +23,10 @@ Este script ha sido completamente adaptado y pulido para un rendimiento óptimo 
 
 Al ser para la base V-Slice, puedes integrarlo directamente desde la carpeta del juego. 
 
-1. Descarga el archivo fuente desde la sección de [Releases](https://github.com/[TU_USUARIO]/[TU_REPOSITORIO]/releases).
-2. Si estas en Android esta seria la ruta conveniente para pegar la script.
-# Ruta estándar (Almacenamiento compartido)
-/storage/emulated/0/Android/data/com.funkycrew.fnf/files/mods/
-
-# O bien, en la carpeta raíz que cree tu build en el almacenamiento interno:
-/sdcard/FNFVSliceMobile/mods/
-
+1. Descarga el archivo fuente desde la sección de [Releases](https://github.com/LaloCF2/MobileFPSOverlay/releases/tag/v1.1.0).
+2. Si estas en Android esta seria la ruta conveniente para pegar la script:
+**/storage/emulated/0/Android/data/com.funkycrew.fnf/files/mods/**
 3. Si estas en iOS esta seria la ruta mas conveniente:
-# Carpeta de la App (FNF V-Slice)
 iPhone/FNF/mods
 
 
